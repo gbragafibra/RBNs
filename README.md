@@ -8,34 +8,34 @@ Will also need the `ffmpeg` writer.
 
 ### Some Examples
 
-![](rbn_animations/RBN_K2_n0.mp4)
+![K = 2, η = 0](rbn_animations/RBN_K2_n0.mp4)
 
-![](rbn_animations/RBN_K2_n03.mp4)
+![K = 2, η = 0.3](rbn_animations/RBN_K2_n03.mp4)
 
-![](rbn_animations/RBN_K2_n08.mp4)
+![K = 2, η = 0.8](rbn_animations/RBN_K2_n08.mp4)
 
-![](rbn_animations/RBN_K2_n1.mp4)
+![K = 2, η = 1](rbn_animations/RBN_K2_n1.mp4)
 
-![](rbn_animations/RBN_K3_n0.mp4)
+![K = 3, η = 0](rbn_animations/RBN_K3_n0.mp4)
 
-![](rbn_animations/RBN_K3_n03.mp4)
+![K = 3, η = 0.3](rbn_animations/RBN_K3_n03.mp4)
 
-![](rbn_animations/RBN_K3_n08.mp4)
+![K = 3, η = 0.8](rbn_animations/RBN_K3_n08.mp4)
 
-![](rbn_animations/RBN_K3_n1.mp4)
+![K = 3, η = 1](rbn_animations/RBN_K3_n1.mp4)
 
-![](rbn_animations/RBN_K5_n0.mp4)
+![K = 5, η = 0](rbn_animations/RBN_K5_n0.mp4)
 
-![](rbn_animations/RBN_K5_n03.mp4)
+![K = 5, η = 0.3](rbn_animations/RBN_K5_n03.mp4)
 
-![](rbn_animations/RBN_K5_n08.mp4)
+![K = 5, η = 0.8](rbn_animations/RBN_K5_n08.mp4)
 
-![](rbn_animations/RBN_K5_n1.mp4)
+![K = 5, η = 1](rbn_animations/RBN_K5_n1.mp4)
 
-![](rbn_animations/RBN_K10_n0.mp4)
+![K = 10, η = 0](rbn_animations/RBN_K10_n0.mp4)
 
-![](rbn_animations/RBN_K10_n03.mp4)
+![K = 10, η = 0.3](rbn_animations/RBN_K10_n03.mp4)
 
-![](rbn_animations/RBN_K10_n08.mp4)
+![K = 10, η = 0.8](rbn_animations/RBN_K10_n08.mp4)
 
-![](rbn_animations/RBN_K10_n1.mp4)
+![K = 10, η = 1](rbn_animations/RBN_K10_n1.mp4)
